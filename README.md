@@ -1,6 +1,6 @@
-# GitHub Unfollowers Checker
+# Vanquish Github Unfollowers
 
-This project helps you track and manage your GitHub followers. It identifies users who have unfollowed you by comparing your current followers list with a previously saved list.
+This python program helps you track and manage your GitHub followers. It identifies users who have unfollowed you by comparing your current followers list with a previously saved list.
 
 ## Features
 
